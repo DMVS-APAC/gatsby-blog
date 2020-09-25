@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
-import CustomEmbed from "@dmvs-apac/dm-custom-embed"
 
 export default function Home() {
   return (

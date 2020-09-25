@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Layout({ children }) {
   return (
-    <body>
+    <div className="main">
       <header class="top-bar">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -23,6 +23,6 @@ export default function Layout({ children }) {
       <footer class="footer">
         copyright 2020.
       </footer>
-    </body>
+    </div>
   )
 }
