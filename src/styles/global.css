@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+.top-bar {
+    background: #000;
+    color: #fff;
+    padding: 13px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.entry-content {
+    margin-top: 30px;
+}
+
+article {
+    max-width: 760px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+p {
+    margin-bottom: 14px;
+}
+
+.footer {
+    text-align: center;
+}
